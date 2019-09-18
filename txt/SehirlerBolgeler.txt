@@ -1,0 +1,81 @@
+﻿1	Adana	2201670	1	Akdeniz Bölgesi
+2	Adıyaman	610484	4	Güneydoğu Anadolu Bölgesi
+3	Afyonkarahisar	714523	3	Ege Bölgesi
+4	Ağrı	542255	2	Doğu Anadolu Bölgesi
+5	Amasya	326351	6	Karadeniz Bölgesi
+6	Ankara	5346518	5	İç Anadolu Bölgesi
+7	Antalya	2328555	1	Akdeniz Bölgesi
+8	Artvin	168068	6	Karadeniz Bölgesi
+9	Aydın	1068260	3	Ege Bölgesi
+10	Balıkesir	1196176	7	Marmara Bölgesi
+11	Bilecik	218297	7	Marmara Bölgesi
+12	Bingöl	269560	2	Doğu Anadolu Bölgesi
+13	Bitlis	341225	2	Doğu Anadolu Bölgesi
+14	Bolu	299896	6	Karadeniz Bölgesi
+15	Burdur	261401	1	Akdeniz Bölgesi
+16	Bursa	2901396	7	Marmara Bölgesi
+17	Çanakkale	519793	7	Marmara Bölgesi
+18	Çankırı	183880	5	İç Anadolu Bölgesi
+19	Çorum	527863	6	Karadeniz Bölgesi
+20	Denizli	1005687	3	Ege Bölgesi
+21	Diyarbakır	1673119	4	Güneydoğu Anadolu Bölgesi
+22	Edirne	401701	7	Marmara Bölgesi
+23	Elazığ	578789	2	Doğu Anadolu Bölgesi
+24	Erzincan	226032	2	Doğu Anadolu Bölgesi
+25	Erzurum	762021	2	Doğu Anadolu Bölgesi
+26	Eskişehir	844842	5	İç Anadolu Bölgesi
+27	Gaziantep	1974244	4	Güneydoğu Anadolu Bölgesi
+28	Giresun	444467	6	Karadeniz Bölgesi
+29	Gümüşhane	172034	6	Karadeniz Bölgesi
+30	Hakkari	267813	2	Doğu Anadolu Bölgesi
+31	Hatay	1555165	1	Akdeniz Bölgesi
+32	Isparta	427324	1	Akdeniz Bölgesi
+33	Mersin	1773852	1	Akdeniz Bölgesi
+34	İstanbul	14804116	7	Marmara Bölgesi
+35	İzmir	4223545	3	Ege Bölgesi
+36	Kars	289786	2	Doğu Anadolu Bölgesi
+37	Kastamonu	376945	6	Karadeniz Bölgesi
+38	Kayseri	1358980	5	İç Anadolu Bölgesi
+39	Kırklareli	351684	7	Marmara Bölgesi
+40	Kırşehir	229975	5	İç Anadolu Bölgesi
+41	Kocaeli	1830772	7	Marmara Bölgesi
+42	Konya	2161303	5	İç Anadolu Bölgesi
+43	Kütahya	573642	3	Ege Bölgesi
+44	Malatya	781305	2	Doğu Anadolu Bölgesi
+45	Manisa	1396945	3	Ege Bölgesi
+46	Kahramanmaraş	1112634	1	Akdeniz Bölgesi
+47	Mardin	796237	4	Güneydoğu Anadolu Bölgesi
+48	Muğla	923773	3	Ege Bölgesi
+49	Muş	406501	2	Doğu Anadolu Bölgesi
+50	Nevşehir	290895	5	İç Anadolu Bölgesi
+51	Niğde	351468	5	İç Anadolu Bölgesi
+52	Ordu	750588	6	Karadeniz Bölgesi
+53	Rize	331048	6	Karadeniz Bölgesi
+54	Sakarya	976948	7	Marmara Bölgesi
+55	Samsun	1295927	6	Karadeniz Bölgesi
+56	Siirt	322664	4	Güneydoğu Anadolu Bölgesi
+57	Sinop	205478	6	Karadeniz Bölgesi
+58	Sivas	621224	5	İç Anadolu Bölgesi
+59	Tekirdağ	972875	7	Marmara Bölgesi
+60	Tokat	602662	6	Karadeniz Bölgesi
+61	Trabzon	779379	6	Karadeniz Bölgesi
+62	Tunceli	82193	2	Doğu Anadolu Bölgesi
+63	Şanlıurfa	1940627	4	Güneydoğu Anadolu Bölgesi
+64	Uşak	358736	3	Ege Bölgesi
+65	Van	1100190	2	Doğu Anadolu Bölgesi
+66	Yozgat	421041	5	İç Anadolu Bölgesi
+67	Zonguldak	597524	6	Karadeniz Bölgesi
+68	Aksaray	396673	5	İç Anadolu Bölgesi
+69	Bayburt	90154	6	Karadeniz Bölgesi
+70	Karaman	245610	5	İç Anadolu Bölgesi
+71	Kırıkkale	277984	5	İç Anadolu Bölgesi
+72	Batman	576899	4	Güneydoğu Anadolu Bölgesi
+73	Şırnak	483788	4	Güneydoğu Anadolu Bölgesi
+74	Bartın	192389	6	Karadeniz Bölgesi
+75	Ardahan	98335	2	Doğu Anadolu Bölgesi
+76	Iğdır	192785	2	Doğu Anadolu Bölgesi
+77	Yalova	241665	7	Marmara Bölgesi
+78	Karabük	242347	6	Karadeniz Bölgesi
+79	Kilis	130825	4	Güneydoğu Anadolu Bölgesi
+80	Osmaniye	522175	1	Akdeniz Bölgesi
+81	Düzce	370371	6	Karadeniz Bölgesi

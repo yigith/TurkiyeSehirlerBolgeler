@@ -1,0 +1,7 @@
+﻿1	Akdeniz Bölgesi
+2	Doğu Anadolu Bölgesi
+3	Ege Bölgesi
+4	Güneydoğu Anadolu Bölgesi
+5	İç Anadolu Bölgesi
+6	Karadeniz Bölgesi
+7	Marmara Bölgesi
