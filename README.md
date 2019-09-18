@@ -1,5 +1,5 @@
 # TurkiyeSehirlerBolgeler
-Türkiye'nin Şehirleri ve Bölgeleri (txt, csv, excel, sql)
+Türkiye'nin Şehirleri ve Bölgeleri (txt, excel, sql)
 
 # Türkiye'nin İlleri ve Bölgeleri
 | Id | SehirAd        | Nufus    | BolgeId | BolgeAd                   |
