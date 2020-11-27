@@ -1,3 +1,9 @@
+public class Sehir
+{
+	public int Id { get; set; }
+	public string SehirAd { get; set; }
+}
+
 private List<Sehir> Sehirler()
 {
     return new List<Sehir>
