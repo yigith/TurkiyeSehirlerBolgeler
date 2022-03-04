@@ -1,10 +1,10 @@
 CREATE TABLE Universiteler
 (
 	Id INT PRIMARY KEY IDENTITY,
-	UniversiteAd NVARCHAR(100) NOT NULL
+	Ad NVARCHAR(100) NOT NULL
 );
 
-INSERT INTO Universiteler(UniversiteAd) VALUES
+INSERT INTO Universiteler(Ad) VALUES
 (N'Adana Bilim ve Teknoloji Üniversitesi'),
 (N'Çukurova Üniversitesi'),
 (N'Adıyaman Üniversitesi'),
