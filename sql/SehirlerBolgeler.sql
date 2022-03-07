@@ -2,14 +2,14 @@ CREATE TABLE Bolgeler
 (
 	Id INT PRIMARY KEY,
 	BolgeAd NVARCHAR(50) NOT NULL,
-)
+);
 
 CREATE TABLE Sehirler(
 	Id INT PRIMARY KEY,
 	BolgeId INT NOT NULL FOREIGN KEY REFERENCES Bolgeler(Id),
 	SehirAd NVARCHAR(50) NOT NULL,
 	Nufus INT NOT NULL,
-)
+);
 
 INSERT Bolgeler (Id, BolgeAd) VALUES (1, N'Akdeniz Bölgesi');
 INSERT Bolgeler (Id, BolgeAd) VALUES (2, N'Doğu Anadolu Bölgesi');
